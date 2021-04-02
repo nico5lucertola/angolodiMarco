@@ -2,7 +2,7 @@
 
 questo è il mio readme!
 
-linea da aggiungere
+main, you are an asshole!
 
 edit del collaboratore
 
