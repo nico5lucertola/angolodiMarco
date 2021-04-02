@@ -2,7 +2,7 @@
 
 questo è il mio readme!
 
-linea da aggiungere
+this will be a conflict
 
 edit del collaboratore
 
