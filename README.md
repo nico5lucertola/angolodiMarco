@@ -3,3 +3,5 @@
 questo è il mio readme!
 
 linea da aggiungere
+
+edit del collaboratore
